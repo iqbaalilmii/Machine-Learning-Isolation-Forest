@@ -1,4 +1,4 @@
-# Isolation Forest 
+# Isolation Forest for Engram
 
 Isolation Forest adalah algoritma dalam Machine Learning yang dipakai untuk mendeteksi anomaly yaitu data yang berbeda jauh dari mayoritas data lainnya
 
